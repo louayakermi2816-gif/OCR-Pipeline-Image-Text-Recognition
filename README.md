@@ -29,7 +29,7 @@ Raw Image --> Grayscale --> Gaussian Blur --> Adaptive Threshold --> Tesseract O
 ## Project Structure
 
 ```
-project 4/
+OCR-Pipeline-Image-Text-Recognition/
 ├── images/
 │   ├── raw/              # Original input images (read-only)
 │   └── processed/        # Pre-processed images (grayscale, threshold)
