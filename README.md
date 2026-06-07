@@ -55,8 +55,8 @@ OCR-Pipeline-Image-Text-Recognition/
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/louayakermi2816-gif/OCR-Pipeline-Image-Text-Recognition.git
+cd OCR-Pipeline-Image-Text-Recognition
 python -m venv .venv
 .venv\Scripts\activate       # Windows
 # source .venv/bin/activate  # macOS/Linux
